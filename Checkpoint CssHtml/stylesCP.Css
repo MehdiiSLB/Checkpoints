@@ -1,0 +1,99 @@
+* {
+  margin: 0rem;
+  padding: 0rem;
+}
+body {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 200;
+  background-color: rgb(240, 243, 243);
+}
+
+.Nav {
+  display: flex;
+  padding-right: 5rem;
+  justify-content: space-between;
+  font-size: 30px;
+  justify-content: space-around;
+  background-color: rgb(190, 229, 216);
+  padding-bottom: 4rem;
+  align-items: center;
+  height: 50px;
+}
+.border {
+  border: solid;
+  background-color: rgb(84, 84, 180);
+}
+.Titre {
+  color: white;
+  font-size: 40px;
+  position: relative;
+  text-align: center;
+  padding: 4rem;
+  color: rgb(212, 187, 44);
+}
+.Image {
+  border: solid;
+  width: 100%;
+  height: 50%;
+  border: sol;
+  align-items: center;
+}
+.Text {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+  color: rgb(52, 23, 78);
+}
+.Text2 {
+  font-size: 25px;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+.Text3 {
+  font-size: 20px;
+  padding-left: 4rem;
+}
+.Text4 {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+.Text5 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 1rem;
+}
+.item {
+  position: relative;
+  margin-left: 30rem;
+  width: 400px;
+  font-size: 30px;
+  border-color: black;
+}
+.Video {
+  margin-top: 3rem;
+  margin-left: 30rem;
+  width: 400px;
+  height: 200px;
+}
+.Logo {
+  width: 40px;
+}
+.LogoP {
+  margin-left:  40rem;
+}
+.click {
+  position: relative;
+  bottom: 4rem;
+  margin-left: 35rem;
+}
+.Click {
+    position: relative;
+    top: 2rem;
+    margin-left: 35rem;
+  }
+.Couleur {
+  color:indigo;
+}

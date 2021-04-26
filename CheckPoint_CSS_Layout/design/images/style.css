@@ -1,0 +1,204 @@
+* {
+  padding: 0rem;
+  margin: 0rem;
+}
+.LS {
+  color: white;
+  position: relative;
+  bottom: 37rem;
+  font-family: "Alata";
+  font-size: 32px;
+  padding-left: 6rem;
+}
+.FontLS {
+  font-family: "Alata";
+  font-size: 30px;
+}
+.Nav {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+
+  left: 4rem;
+  color: white;
+  bottom: 39rem;
+}
+.A1 {
+  position: relative;
+  right: 16rem;
+}
+.A2 {
+  position: relative;
+  right: 13rem;
+}
+.A3 {
+  position: relative;
+  right: 10rem;
+}
+.A4 {
+  position: relative;
+  right: 7rem;
+}
+.A5 {
+  position: relative;
+  right: 4rem;
+}
+.Box {
+  box-sizing: border-box;
+  border: solid;
+  border-color: white;
+  width: 40%;
+  margin-left: 6rem;
+  position: relative;
+  bottom: 30rem;
+}
+.Titre {
+  font-family: "Josefin Sans";
+  color: white;
+  font-size: 50px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-family: "Alata";
+}
+.Inter {
+  padding-left: 6rem;
+  position: relative;
+  bottom: 10rem;
+}
+.Mid {
+  box-sizing: border-box;
+  position: relative;
+  bottom: 23rem;
+  background-color: white;
+  margin-left: 42rem;
+  margin-bottom: -15rem;
+  padding-bottom: 5rem;
+  margin-top: -5rem;
+  padding-top: 4rem;
+  padding-left: 6rem;
+}
+.Leader {
+  font-family: "Josefin Sans";
+  font-size: 40px;
+  font-weight: 60%;
+  position: relative;
+}
+.Founded {
+  font-family: "Josefin Sans";
+  font-size: 15px;
+  margin-top: 2rem;
+}
+.Creations {
+  font-family: "Josefin Sans";
+  font-size: 35px;
+  margin-left: 6rem;
+}
+.Button {
+  background-color: white;
+  font-family: "Alata";
+  font-size: 14px;
+  font-weight: 30rem;
+  margin-left: 67rem;
+  width: 150px;
+  height: 50px;
+  position: relative;
+  bottom: 3rem;
+}
+.Pic1 {
+  padding-left: 6rem;
+  margin-right: 8rem;
+  display: flex;
+  justify-content: space-between;
+}
+.Pic2 {
+  margin-top: 2rem;
+  padding-left: 6rem;
+  margin-right: 8rem;
+  display: flex;
+  justify-content: space-between;
+}
+.Desc {
+  color: white;
+  display: flex;
+  position: relative;
+  padding-left: 3rem;
+  margin-right: 8rem;
+  justify-content: space-around;
+  bottom: 35rem;
+}
+.Desc2 {
+  color: white;
+  display: flex;
+  position: relative;
+  padding-left: 3rem;
+  margin-right: 8rem;
+  justify-content: space-around;
+  bottom: 10rem;
+}
+.ALL {
+  font-family: "Josefin Sans";
+  font-size: 30px;
+}
+.Down {
+  box-sizing: border-box;
+  background-color: black;
+}
+.LS2 {
+  color: white;
+  font-family: "Alata";
+  font-size: 30px;
+  padding-left: 6rem;
+  padding-top: 1rem;
+}
+.Nav2 {
+  color: white;
+  font-family: "Alata";
+  font-size: 15px;
+  display: flex;
+  padding-left: 6rem;
+  margin-top: 1rem;
+  padding-bottom: 3rem;
+}
+.B2 {
+  margin-right: 2rem;
+}
+.B3 {
+  margin-right: 2rem;
+}
+.B4 {
+  margin-right: 2rem;
+}
+.B5 {
+  margin-right: 2rem;
+}
+.Logos {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 5rem;
+  margin-right: 10rem;
+}
+.Logo2 {
+  margin-left: 1rem;
+}
+.Logo3 {
+  margin-left: 1rem;
+}
+.Logo4 {
+  margin-left: 1rem;
+}
+.Final {
+  color: gray;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 6rem;
+  margin-right: 10rem;
+  font-family: "Alata";
+}

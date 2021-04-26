@@ -1,0 +1,13 @@
+Colors :
+
+White: hsl(0, 0%, 100%)
+Black: hsl(0, 0%, 0%)
+Dark Gray: hsl(0, 0%, 55%)
+Very Dark Gray: hsl(0, 0%, 41%)
+
+Font :
+- Size : 15px
+- Family1: [Alata](https://fonts.google.com/specimen/Alata)
+- Weight1: 400
+- Family2: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
+- Weight2: 300 
